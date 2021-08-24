@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LonsB
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning SQL and Python
+- 📫 lonsb.github@hotmail.com
